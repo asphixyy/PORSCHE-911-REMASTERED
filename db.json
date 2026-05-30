@@ -1,0 +1,62 @@
+[
+  {
+    "id": "carrera",
+    "name": "911 Carrera",
+    "year": "1963",
+    "acceleration": "3.9s",
+    "power": "290kW/394PS",
+    "topSpeed": "294km/h",
+    "description": "Crucial to the unique 911 driving experience: the optimal set-up. This includes new engine mountings and a completely revised chassis and even wider wheels to transform the increased power output into breathtaking dynamics.",
+    "image": "/src/components/asset/image.png"
+  },
+  {
+    "id": "cabriolet",
+    "name": "911 Carrera Cabriolet",
+    "year": "1982",
+    "acceleration": "4.1s",
+    "power": "290kW/394PS",
+    "topSpeed": "291km/h",
+    "description": "Anyone who dreams of a Porsche usually has an image in their mind: the 911 has been the epitome of an exciting, powerful sports car with day-to-day usability for 60 years.",
+    "image": "/src/components/asset/image copy 4.png"
+  },
+  {
+    "id": "targa",
+    "name": "911 Targa 4s",
+    "year": "1965",
+    "acceleration": "3.5s",
+    "power": "353kW/480PS",
+    "topSpeed": "300km/h",
+    "description": "The heart of the 911 Targa 4S still beats at the rear and sets the pulse of Porsche enthusiasts racing even faster than it did 60 years ago.",
+    "image": "/src/components/asset/image copy 2.png"
+  },
+  {
+    "id": "gt3rs",
+    "name": "911 GT3 RS",
+    "year": "1999",
+    "acceleration": "3.2s",
+    "power": "386kW/525PS",
+    "topSpeed": "296km/h",
+    "description": "The 911 GT3 RS only accepts minimalism to further reduce weight. Available as an option for the first time, the Weissach package once again saves valuable weight.",
+    "image": "/src/components/asset/image copy 3.png"
+  },
+  {
+    "id": "turbos",
+    "name": "911 Turbo S",
+    "year": "1975",
+    "acceleration": "2.7s",
+    "power": "478kW/650PS",
+    "topSpeed": "330km/h",
+    "description": "The 911 Turbo S is the flagship of the 911 range, combining breathtaking performance with everyday usability. With its 3.7-liter twin-turbo flat six, it delivers a driving experience that is as exciting as it is precise.",
+    "image": "/src/components/asset/image copy 5.png"
+  },
+  {
+    "id": "dakar",
+    "name": "911 Dakar",
+    "year": "2023",
+    "acceleration": "3.4s",
+    "power": "353kW/480PS",
+    "topSpeed": "240km/h",
+    "description": "Inspired by the iconic victory in the 1984 Paris-Dakar Rally, the 911 Dakar is a sports car that feels just as at home on the desert sands as it does on the tarmac. Featuring increased ground clearance and a specialized off-road suspension system.",
+    "image": "/src/components/asset/dakar.png"
+  }
+]
