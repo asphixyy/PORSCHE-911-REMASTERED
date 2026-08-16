@@ -1,0 +1,55 @@
+porsche 911/
+├── .env.example
+├── .gitignore
+├── .vscode/
+│   └── launch.json
+├── db.json
+├── dist/
+│   ├── asset/
+│   │   ├── VID_20260220_150236.mp4
+│   │   ├── dakar.png
+│   │   ├── image copy 2.png
+│   │   ├── image copy 3.png
+│   │   ├── image copy 4.png
+│   │   ├── image copy 5.png
+│   │   ├── image copy.png
+│   │   └── image.png
+│   ├── assets/
+│   │   ├── index-B4eilPNI.css
+│   │   └── index-D7D4u_9W.js
+│   └── index.html
+├── index.html
+├── metadata.json
+├── node_modules/ [dependencies, contents omitted]
+├── package-lock.json
+├── package.json
+├── public/
+│   └── asset/
+│       ├── VID_20260220_150236.mp4
+│       ├── dakar.png
+│       ├── image copy 2.png
+│       ├── image copy 3.png
+│       ├── image copy 4.png
+│       ├── image copy 5.png
+│       ├── image copy.png
+│       └── image.png
+├── server.js
+├── src/
+│   ├── App.tsx
+│   ├── components/
+│   │   ├── BlurText.tsx
+│   │   ├── CustomCursor.tsx
+│   │   ├── ElectricBorder.css
+│   │   ├── ElectricBorder.tsx
+│   │   ├── LiquidGlass.tsx
+│   │   ├── RotatingText.css
+│   │   ├── RotatingText.tsx
+│   │   ├── ShinyText.css
+│   │   └── ShinyText.tsx
+│   ├── index.css
+│   └── main.tsx
+├── suggestions.txt
+├── tsconfig.json
+├── vite.config.ts
+├── vscode-profile-2026-06-07-17-02-57.cpuprofile
+└── vscode-profile-2026-06-07-17-05-05.cpuprofile
