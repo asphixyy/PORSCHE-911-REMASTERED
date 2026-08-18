@@ -467,7 +467,7 @@ export default function App() {
               </motion.h2>
               <div className="flex flex-wrap gap-4">
                 <motion.button
-                  onClick={() => window.open('https://www.porsche.com/usa/modelstart/all/', '_blank')}
+                  onClick={() => window.open('https://make-your-own-porsche.vercel.app/', '_blank')}
                   whileHover={{ scale: 1.05 }}
                   whileTap={{ scale: 0.95 }}
                   className="px-8 py-4 bg-yellow-400 text-black text-xs uppercase tracking-widest font-bold"
