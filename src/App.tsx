@@ -215,7 +215,7 @@ export default function App() {
              </div>
           </div>
           <button 
-            onClick={() => window.open('https://www.porsche.com/usa/modelstart/all/', '_blank')}
+            onClick={() => window.open('https://make-your-own-porsche.vercel.app/', '_blank')}
             className="px-6 py-2 bg-white text-black text-xs uppercase tracking-widest font-bold hover:bg-white/90 transition-colors pointer-events-auto"
           >
             Configure
